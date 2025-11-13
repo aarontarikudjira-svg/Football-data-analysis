@@ -6,7 +6,7 @@ A football data analysis project focused on visualizing team and player performa
 
 | Section | Task | Status | Description |
 |---------|------|--------|-------------|
-| **1. Data‑Collection** | Match Data Scraping | 🔲 Planned | Collect match stats from public sources or Wyscout/Hudl |
+| **1. Data‑Collection** | Match Data Scraping | 🟡 In Progress | Collect match stats from public sources or Wyscout/Hudl |
 |  | Data Cleaning | 🟡 In Progress    | Handle missing values and format data |
 | **2. Feature‑Engineering** | Player Metrics | 🔲 Planned | Generate features such as xG, pass completion %, progressive runs |
 |  | Team Metrics | 🟡 In Progress  | Compute team‑level stats for model input |
